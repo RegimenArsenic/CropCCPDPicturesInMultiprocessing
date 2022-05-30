@@ -1,2 +1,4 @@
-¸ù¾İhttps://blog.csdn.net/qq_36516958/article/details/114274778Ìá¹©²Ã¼ôÍ¼Æ¬µÄ·½·¨,ÀûÓÃ¶àÏß³Ì¶ÔCCPDÊı¾İ¼¯Í¼Æ¬½øĞĞ²Ã¼ô,¿ÉÒÔÅÜÂúCPU,6·ÖÖÓ´¦ÀíÍê20ÍòÕÅccpdÊı¾İ¼¯Í¼Æ¬,Ö®ºó¾Í¿ÉÒÔÄÃÕâĞ©Í¼Æ¬À´ÅÜÄ£ĞÍÁË
-  ![²âÊÔÍ¼Æ¬](https://raw.githubusercontent.com/RegimenArsenic/pictures/main/t.png)
+æ ¹æ®
+https://blog.csdn.net/qq_36516958/article/details/114274778
+æä¾›è£å‰ªå›¾ç‰‡çš„æ–¹æ³•,åˆ©ç”¨å¤šçº¿ç¨‹å¯¹CCPDæ•°æ®é›†å›¾ç‰‡è¿›è¡Œè£å‰ª,å¯ä»¥è·‘æ»¡CPU,6åˆ†é’Ÿå¤„ç†å®Œ20ä¸‡å¼ ccpdæ•°æ®é›†å›¾ç‰‡,ä¹‹åå°±å¯ä»¥æ‹¿è¿™äº›å›¾ç‰‡æ¥è·‘æ¨¡å‹äº†
+  ![æµ‹è¯•å›¾ç‰‡](https://raw.githubusercontent.com/RegimenArsenic/pictures/main/t.png)
